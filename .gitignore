@@ -2,4 +2,4 @@
 .vscode/
 .DS_store
 checkpoint_dir/
-MNIIST_data/
+MNIST_data/
